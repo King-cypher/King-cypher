@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @King-cypher
+- 👋 Hi, I’m @King-cypher, am a newbie developer
 - 👀 I’m interested in Everything Tech
 - 🌱 I’m currently learning C++
 - 📫 Reach me on Whatsapp through +2348168090487
