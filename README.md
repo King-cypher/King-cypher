@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @King-cypher, am a newbie developer
+- 👋 Hi, I’m @King-cypher
 - 👀 I’m interested in Everything Tech
-- 🌱 I’m currently learning C++
+- 🌱 Embedded programmer
+- renewable Energy expert
 - 📫 Reach me on Whatsapp through +2348168090487
 
 <!---
